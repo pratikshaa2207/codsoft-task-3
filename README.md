@@ -1,1 +1,2 @@
 # codsoft-task-3
+The Iris flower dataset includes three species: setosa, versicolor, and virginica. Each species can be identified by their specific measurements. Suppose you have the measurements of Iris flowers along with their corresponding species. Your goal is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into the correct species.
